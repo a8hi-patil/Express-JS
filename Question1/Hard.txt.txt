@@ -1,0 +1,5 @@
+App is created on other repositories:
+
+1) Front End >>   https://github.com/a8hi-patil/react-blog-app
+
+2) Back End  >>   https://github.com/a8hi-patil/nodejs-blog-app-backend
